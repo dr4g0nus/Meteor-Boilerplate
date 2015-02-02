@@ -1,6 +1,8 @@
 # Meteor Boilerplate #
 
-I have created this repo as an easy way to start a new barebones Meteor app. I have tried to keep it extremely minimalistic and it is primarily aimed at developers who just want to start a new Meteor project without copy and pasting an old one or re-reading Meteor documentation.
+I have created this boilerplate as an easy way to start a new barebones Meteor app. I have tried to keep it extremely minimalistic and it is primarily aimed at developers who just want to start a new Meteor project without copy and pasting an old one or re-reading Meteor documentation. 
+
+There are several other boilerplates out there that are far more detailed and cover a larger range of use cases. They are definitely worth checking out if they suit your needs. My primary aim with this boilerplate is to keep things simple and only add packages as I need them with respect to the project at hand. Subsequently, this means less removing of unwanted packages and less confusion and package overload for less experienced Meteor developers like myself.
 
 I will keep improving this as I learn more about Meteor. For example, I'll add acceptance testing as soon as I fully understand how to use Nightwatch with Meteor.
 
@@ -28,7 +30,7 @@ $ curl https://install.meteor.com | /bin/sh
 Clone this repo:
 
 ```
-$ git clone https://github.com/dr4g0nus/Meteor_Boilerplate.git project
+$ git clone https://github.com/dr4g0nus/Meteor-Boilerplate.git project
 ```
 
 Change directory:
