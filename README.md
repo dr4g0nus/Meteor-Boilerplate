@@ -1,6 +1,6 @@
 # Meteor Boilerplate #
 
-I have created this boilerplate as an easy way to start a new barebones Meteor app. I have tried to keep it extremely minimalistic and it is primarily aimed at developers who just want to start a new Meteor project without copy and pasting an old one or re-reading Meteor documentation. 
+An extremely minimalistic boilerplate for Meteor apps.
 
 There are several other boilerplates out there that are far more detailed and cover a larger range of use cases. They are definitely worth checking out if they suit your needs. My primary aim with this boilerplate is to keep things simple and only add packages as I need them with respect to the project at hand. Subsequently, this means less removing of unwanted packages and less confusion and package overload for less experienced Meteor developers like myself.
 
