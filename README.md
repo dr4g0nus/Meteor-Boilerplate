@@ -2,7 +2,7 @@
 
 I have created this repo as an easy way to start a new barebones Meteor app. I have tried to keep it extremely minimalistic and it is primarily aimed at developers who just want to start a new Meteor project without copy and pasting an old one or re-reading Meteor documentation.
 
-I will keep improving this as I learn more about Meteor. For example, I'll add acceptance testing when I fully understand how to use nightwatch with Meteor.
+I will keep improving this as I learn more about Meteor. For example, I'll add acceptance testing as soon as I fully understand how to use Nightwatch with Meteor.
 
 ### Core Features ###
 
@@ -21,38 +21,34 @@ I will keep improving this as I learn more about Meteor. For example, I'll add a
 Install Meteor:
 
 ```
-#!bash
-curl https://install.meteor.com | /bin/sh
+$ curl https://install.meteor.com | /bin/sh
 
 ```
 
 Clone this repo:
 
 ```
-#!bash
-git clone 
+$ git clone https://github.com/dr4g0nus/Meteor_Boilerplate.git project
 ```
 
 Change directory:
 
 ```
-#!bash
-cd Meteor-boilerplate
+$ cd project
 ```
 
 Run the app:
 
 ```
-#!bash
-meteor
+$ meteor
 ```
 
 Start coding!!
 
 ### Contribution guidelines ###
 
-* I am open to discussion about improvements and anything people think would be a good addition or change. Just drop me an email or send a PR and we'll talk.
+I am open to discussion about improvements and anything people think would be a good addition or change. Just drop me an email or send a PR and we'll talk.
 
 ### Who do I talk to? ###
 
-* Aaron Culbert (culbert.aaron@gmail.com)
+Aaron Culbert (culbert.aaron@gmail.com)
