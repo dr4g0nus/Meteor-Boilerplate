@@ -45,7 +45,7 @@ $ meteor
 
 Start coding!!
 
-### Contribution guidelines ###
+### Contribution Guidelines ###
 
 I am open to discussion about improvements and people's opinion in general on what are the best practices and what has worked best for them with Meteor. Just drop me an email or send a PR and we'll talk.
 
